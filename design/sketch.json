@@ -1,0 +1,34 @@
+{
+  "note": "The sketch this app's creator was shown when they made it (design/sketch.html). The first version keeps its layout, its words and its accent; any deviation is listed under Assumptions with the reason.",
+  "job": "Save and plan hikes around Geneva with transit directions",
+  "words": {
+    "transit": "By transit",
+    "distance": "Distance"
+  },
+  "accent": {
+    "dark": "#5ec97f",
+    "light": "#2d7a4a"
+  },
+  "layout": [
+    "Header with title and your name",
+    "List of saved hikes, each showing the hike name, distance, transit method and time",
+    "Primary action to save a new hike at the bottom"
+  ],
+  "signature": "Transit time and method shown for each hike, since getting there is half the adventure",
+  "accentName": "Alpine green",
+  "primaryAction": "Save a hike",
+  "tokens": {
+    "light": {
+      "accent": "45 122 74",
+      "on-accent": "255 255 255",
+      "focus": "45 122 74"
+    },
+    "dark": {
+      "accent": "94 201 127",
+      "on-accent": "28 25 23",
+      "focus": "94 201 127"
+    }
+  },
+  "model": "claude-haiku-4-5",
+  "createdAt": "2026-10-05T13:15:44.538Z"
+}
